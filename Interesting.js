@@ -1,6 +1,5 @@
 
 //Горизонтальный скролл, скролл до активного эдемента
-
 if (scrollContainer) {
     function scrollToActive() {
 
